@@ -1,6 +1,6 @@
-# Header My AWS Cloud Resume Challenge
+# My AWS Cloud Resume Challenge
 This is my **AWS Cloud resume Challenge** project.
-![AWS arch](put-link-to-image-here)
+![AWS arch]([put-link-to-image-here](https://s3.amazonaws.com/euclidesperez.dev/img/aws-arch.png))
 ### AWS services I used
 * Lambda
 * DynamoDB
